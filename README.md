@@ -26,9 +26,9 @@ To create a comprehensive and **interactive** mind map, the following steps were
 
 2. This generated the Markdown that was pasted into a file called [Markmap Mind Map.md](./Markmap%20Mind%20Map.md).
 
-3. and the Markdown was then processed using a tool like [Markmap](https://markmap.js.org/) (or the [Markmap VS Code extension](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode)) to convert the Markdown into an interactive [HTML file](./Markmap%20Mind%20Map.html) file, or [SVG](./Markmap%20Mind%20Map.svg) file.
+3. and the Markdown was then processed using a tool like [Markmap](https://markmap.js.org/) (or the [Markmap VS Code extension](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode)) to convert the Markdown into an interactive `HTML` file, or `SVG` file.
 
-[![Markmap Mind Map](./Markmap%20Mind%20Map.png)](./Markmap%20Mind%20Map.html)
+[![Markmap Mind Map](./Markmap%20Mind%20Map.png)](https://dzivkovi.github.io/notebooklm-for-seo-research/Markmap%20Mind%20Map.html)
 
 This approach allows for a complete, shareable, and interactive visualization of the research topics.
 
